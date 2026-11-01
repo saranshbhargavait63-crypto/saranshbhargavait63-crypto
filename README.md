@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1d4ed8&height=220&section=header&text=Amit%20Kumar%20Ghosh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%E2%80%A2%20System%20Design%20and%20DSA%20Instructor%20at%20Scaler%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Architect&descAlignY=60&descSize=15" width="100%" alt="Amit Kumar Ghosh - Forward Deployed Engineer, System Design and DSA Instructor at Scaler, Backend Engineer, AI Architect" title="Amit Kumar Ghosh - Forward Deployed Engineer & System Design and DSA Instructor at Scaler" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:1d4ed8&height=220&section=header&text=Amit%20Kumar%20Ghosh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Forward%20Deployed%20Engineer%20%E2%80%A2%20System%20Design%20and%20DSA%20Instructor%20at%20Scaler%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Architect&descAlignY=60&descSize=15" width="100%" alt="Saransh Bhargava - Software Developer" title="Saransh Bhargava - Software Developer" />
 
-<a href="https://www.linkedin.com/in/amitkumarghoshflux/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+High-Throughput+Distributed+Systems+%26+Production+Architectures;Teaching+Engineers+How+to+Think+from+First+Principles+at+Scaler;LinkedIn+Top+Voice+in+System+Design+%26+Algorithms;Official+Binance+KOL+%26+Founder+of+Flux+Bro+(36,000%2B+Community)" alt="Amit Kumar Ghosh - Distributed Systems, System Design, Algorithms, and AI Engineering" />
+<a href="https://www.linkedin.com/in/saranshbhargava/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+High-Throughput+Distributed+Systems+%26+Production+Architectures;Teaching+Engineers+How+to+Think+from+First+Principles+at+Scaler;LinkedIn+Top+Voice+in+System+Design+%26+Algorithms;Official+Binance+KOL+%26+Founder+of+Flux+Bro+(36,000%2B+Community)" alt="Saransh Bhargava" />
 </a>
 
 <p><strong>Building scalable software systems, teaching engineers how to think from first principles, and helping developers grow from coding interviews to production architecture.</strong></p>
