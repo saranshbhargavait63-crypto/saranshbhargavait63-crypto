@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am Amit Kumar Ghosh, a Software Engineer, System Design Instructor at Scaler, and technical educator with over 6 years of experience building software products and mentoring engineers.
+I am Saransh Bhargava, a Software Engineer, System Design Instructor at Scaler, and technical educator with over 6 years of experience building software products and mentoring engineers.
 
 I specialize in Backend Engineering, Distributed Systems, System Design, Data Structures and Algorithms, and Software Architecture.
 
